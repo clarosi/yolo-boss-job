@@ -1,0 +1,9 @@
+.jobs-found {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  min-height: 75px;
+  border-bottom: 1px solid #d8d8d8;
+  font: 17px bold;
+  font-family: 'Roboto Condensed', sans-serif;
+}

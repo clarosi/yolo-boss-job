@@ -1,0 +1,28 @@
+.pagination {
+  display: flex;
+  padding: 0;
+}
+
+.pagination li {
+  list-style-type: none;
+  padding: 7px 10px;
+}
+
+.pagination li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.pagination .selected {
+  color: #2379ea;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.pagination .disabled {
+  color: #d8d8d8;
+}
+
+.pagination .enabled {
+  color: #2379ea;
+}

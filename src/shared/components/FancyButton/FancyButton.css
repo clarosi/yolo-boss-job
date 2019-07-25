@@ -1,0 +1,9 @@
+.fancy-button {
+  cursor: pointer;
+  padding-top: 5px;
+}
+
+.fancy-button:hover {
+  border: 1px solid #2379ea;
+  border-radius: 5px;
+}

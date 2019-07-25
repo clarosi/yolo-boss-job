@@ -1,0 +1,7 @@
+.box {
+  width: 100%;
+  min-height: 155px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #f6f6f6;
+  box-shadow: 0 8px 5px -2px #f1f1f1;
+}
